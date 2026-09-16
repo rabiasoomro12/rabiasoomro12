@@ -1,24 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1F4A,35:6D3B7A,65:9B5BB5,100:D8B4E2&height=240&section=header&text=Rabia%20Soomro&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20RESEARCH%20%7C%20ENGINEERING%20%7C%20WOMAN%20IN%20STEM&descAlignY=61&descSize=19&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111318,35:176B6B,65:5BC0EB,100:D98C8C&height=240&section=header&text=Rabia%20Soomro&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20RESEARCH%20%7C%20ENGINEERING%20%7C%20WOMAN%20IN%20STEM&descAlignY=61&descSize=19&descColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7B4B91&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabia;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Researcher+%7C+Engineer+%7C+Builder;Turning+curiosity+into+code+%26+research+%F0%9F%90%87" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=176B6B&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabia;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Researcher+%7C+Engineer+%7C+Builder;Turning+curiosity+into+code+%26+research+%F0%9F%90%87" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rsoomro03/">
-<img src="https://img.shields.io/badge/LinkedIn-6D3B7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-176B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://rabia-portfolio-rho.vercel.app/#home">
-<img src="https://img.shields.io/badge/Portfolio-9B5BB5?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F7C83?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="mailto:rabiasoomro1591@gmail.com">
-<img src="https://img.shields.io/badge/Email-3B1F4A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rabiasoomro12&label=Profile%20Views&color=7B4B91&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=rabiasoomro12&label=Profile%20Views&color=176B6B&style=flat-square" />
 
 </div>
 
@@ -46,7 +48,7 @@ I enjoy going beyond simply making a model run. I like understanding the problem
 * ✨ Generative AI & LLMs
 * ⚙️ Software & Systems Engineering
 
-And yes, I'm also a **woman in STEM**, building my way through all of it. 💜
+And yes, I'm also a **woman in STEM**, building my way through all of it. 💙
 
 ---
 
@@ -191,7 +193,7 @@ It was to understand **where models succeed, where they struggle, and why.**
 
 ---
 
-## 💜 beyond the code
+## 💙 beyond the code
 
 Alongside technical work, I've been involved in:
 
@@ -234,59 +236,49 @@ I enjoy the part of technology where **building, learning, explaining, and helpi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EDE2F2&height=8&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E5E7EB&height=8&section=header" />
 
 <br/>
 
 ### ✦ build · research · learn · repeat ✦
 
-<br/>
-
-<!-- GitHub statistics -->
-
-<a href="https://github.com/rabiasoomro12">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=D8B4E2&icon_color=B979D0&text_color=E6DDEC&bg_color=18131C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=6D3B7A&icon_color=9B5BB5&text_color=555555&bg_color=FFFFFF">
-  <img height="165" alt="Rabia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=6D3B7A&icon_color=9B5BB5&text_color=555555&bg_color=FFFFFF">
-</picture>
-</a>
-
-<a href="https://github.com/rabiasoomro12">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=D8B4E2&text_color=E6DDEC&bg_color=18131C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=6D3B7A&text_color=555555&bg_color=FFFFFF">
-  <img height="165" alt="Rabia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=6D3B7A&text_color=555555&bg_color=FFFFFF">
-</picture>
-</a>
-
 <br/><br/>
 
-<!-- Streak -->
+<!-- GitHub Contribution Streak -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=18131C&ring=D8B4E2&fire=B979D0&currStreakLabel=D8B4E2&sideLabels=D8B4E2&dates=AAA0B0">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=FFFFFF&ring=6D3B7A&fire=9B5BB5&currStreakLabel=6D3B7A&sideLabels=6D3B7A&dates=777777">
-  <img alt="GitHub Contribution Streak" src="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=FFFFFF&ring=6D3B7A&fire=9B5BB5&currStreakLabel=6D3B7A&sideLabels=6D3B7A&dates=777777">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=111318&ring=5BC0EB&fire=D98C8C&currStreakNum=FFFFFF&currStreakLabel=5BC0EB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9B0BA&stroke=242832&locale=en">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=F7F8FA&ring=176B6B&fire=D98C8C&currStreakNum=111318&currStreakLabel=176B6B&sideNums=111318&sideLabels=333840&dates=6B7280&stroke=E1E5E9&locale=en">
+  <img
+    src="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=F7F8FA&ring=176B6B&fire=D98C8C&currStreakNum=111318&currStreakLabel=176B6B&sideNums=111318&sideLabels=333840&dates=6B7280&stroke=E1E5E9&locale=en"
+    alt="GitHub contribution streak"
+  />
 </picture>
 
 <br/><br/>
 
-<!-- Contribution snake automatically adapts to GitHub theme -->
+> *"Consistency compounds quietly."*
+
+<br/><br/>
+
+<!-- Contribution Snake -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution graph animation"
+  />
 </picture>
 
 <br/><br/>
 
-> *"Research is curiosity with a method."*
+> *"Small commits. Big systems."*
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D8EE,45:C49AD2,75:8C4AA5,100:3B1F4A&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8ECEF,45:9FC7CC,75:5BC0EB,100:176B6B&height=100&section=footer" />
 
 </div>
 
@@ -302,7 +294,7 @@ And if something I build makes another girl think:
 
 > *"Wait... maybe I can do this too."*
 
-that's a pretty nice bonus. 💜
+that's a pretty nice bonus. 💙
 
 ---
 
@@ -315,15 +307,15 @@ If you're working on something interesting in **AI, research, computer vision, i
 <br/>
 
 <a href="https://www.linkedin.com/in/rsoomro03/">
-<img src="https://img.shields.io/badge/LinkedIn-6D3B7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-176B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://rabia-portfolio-rho.vercel.app/#home">
-<img src="https://img.shields.io/badge/Portfolio-9B5BB5?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F7C83?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:rabiasoomro1591@gmail.com">
-<img src="https://img.shields.io/badge/Email-3B1F4A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
