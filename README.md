@@ -24,7 +24,7 @@
 
 ---
 
-## 👩🏻‍💻 a little about me
+## 👩🏻‍💻 A little about me
 
 Hi, I'm **Rabia**, a Computer Systems Engineering graduate who found myself increasingly fascinated by one question:
 
