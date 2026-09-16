@@ -22,254 +22,207 @@
 
 </div>
 
-👩🏻‍💻 A little about me
+---
 
-Hi, I'm Rabia, a Computer Systems Engineering graduate who became increasingly fascinated by one question:
+## 👩🏻‍💻 a little about me
 
-How can we build systems that can actually learn, understand, and help?
+Hi, I'm **Rabia**, a Computer Systems Engineering graduate who became increasingly fascinated by one question:
 
-My work sits at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Data, and Engineering.
+> **How can we build systems that can actually learn, understand, and help?**
+
+My work sits at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, Data, and Engineering**.
 
 I enjoy going beyond simply making a model run. I like understanding the problem, experimenting with different approaches, evaluating what works, and turning the result into something people can actually use.
 
-"Curiosity is where good engineering begins."
+> *"Curiosity is where good engineering begins."*
 
-🔬 what keeps me curious
+### 🔬 what keeps me curious
 
-🧠 Artificial Intelligence & Machine Learning
+* 🧠 Artificial Intelligence & Machine Learning
+* 👁️ Deep Learning & Computer Vision
+* 🩺 Medical AI & Healthcare Imaging
+* 🔎 Explainable AI
+* 📊 Data Analytics & Intelligent Systems
+* ✨ Generative AI & LLMs
+* ⚙️ Software & Systems Engineering
 
-👁️ Deep Learning & Computer Vision
+And yes, I'm also a **woman in STEM**, building my way through all of it. 💜
 
-🩺 Medical AI & Healthcare Imaging
+---
 
-🔎 Explainable AI
+## 🧠 what I work with
 
-📊 Data Analytics & Intelligent Systems
+### 🤖 AI / Machine Learning
 
-✨ Generative AI & LLMs
+`Python` · `TensorFlow` · `Keras` · `Scikit-learn` · `NumPy` · `Pandas`
 
-⚙️ Software & Systems Engineering
+`Deep Learning` · `Transfer Learning` · `Model Evaluation` · `Classification` · `Data Analysis`
 
-And yes, I'm also a woman in STEM, building my way through all of it. 💜
+### 👁️ Computer Vision
 
-🧠 what I work with
+`OpenCV` · `CNNs` · `Image Classification` · `Medical Imaging`
 
-🤖 AI / Machine Learning
+`Grad-CAM` · `Image Processing` · `Explainable AI`
 
-Python · TensorFlow · Keras · Scikit-learn · NumPy · Pandas
+### 💻 Software Engineering
 
-Deep Learning · Transfer Learning · Model Evaluation · Classification · Data Analysis
+`React` · `TypeScript` · `JavaScript` · `HTML/CSS`
 
-👁️ Computer Vision
+`FastAPI` · `Supabase` · `Git` · `GitHub`
 
-OpenCV · CNNs · Image Classification · Medical Imaging
+### ⚙️ Systems / Hardware
 
-Grad-CAM · Image Processing · Explainable AI
+`C` · `C++` · `Java` · `MATLAB` · `SQL` · `PostgreSQL`
 
-💻 Software Engineering
+`Cisco Packet Tracer`
 
-React · TypeScript · JavaScript · HTML/CSS
+---
 
-FastAPI · Supabase · Git · GitHub
+## 🔬 research & publications
 
-⚙️ Systems / Hardware
+### 📄 published research
 
-C · C++ · Java · MATLAB · SQL · PostgreSQL
-
-Cisco Packet Tracer
-
-🔬 research & publications
-
-📄 published research
-
-"An FPGA-Oriented Adaptive Hill-Climbing MPPT with Partial Shading Detection and Deterministic Global Search"
+**"An FPGA-Oriented Adaptive Hill-Climbing MPPT with Partial Shading Detection and Deterministic Global Search"**
 
 IEEE iCoMET 2026
 
 Co-authored with Kashif Hussain Memon, Nimerta Wadhwani, Waqar Abbas Khan, Ayesha Ansari
 
-🔗 View on IEEE Xplore →
+[🔗 View on IEEE Xplore →](https://ieeexplore.ieee.org/document/11591927)
 
-"Surface Defects Detection in Metals Using Eddy Current Pulsed Thermography"
+---
+
+**"Surface Defects Detection in Metals Using Eddy Current Pulsed Thermography"**
 
 IEEE C-CODE 2025
 
 Co-authored with Nimerta Wadhwani, Junaid Ahmed, Waqar Abbas Khan, Gui Yun Tian
 
-🔗 View on IEEE Xplore →
+[🔗 View on IEEE Xplore →](https://ieeexplore.ieee.org/document/11204165)
 
-🧪 current research direction
+### 🧪 current research direction
 
-Medical AI & Computer Vision
+**Medical AI & Computer Vision**
 
-I'm particularly interested in building models that are not only accurate, but also interpretable, carefully evaluated, and reproducible.
+I'm particularly interested in building models that are not only accurate, but also **interpretable, carefully evaluated, and reproducible**.
 
 Current work includes:
 
-A Leakage-Free Two-Phase Transfer Learning Ensemble for Binary Melanoma Classification
+> **A Leakage-Free Two-Phase Transfer Learning Ensemble for Binary Melanoma Classification**
 
-Exploring EfficientNetB3 · DenseNet121 · InceptionV3 · ViT-B16, with an emphasis on rigorous evaluation and avoiding data leakage.
+Exploring `EfficientNetB3` · `DenseNet121` · `InceptionV3` · `ViT-B16`, with an emphasis on rigorous evaluation and avoiding data leakage.
 
-"A model is more interesting when you understand why it made the prediction."
+> *"A model is more interesting when you understand why it made the prediction."*
 
-🩺 featured project
+---
 
-DermAI
+## 🩺 featured project
 
-Deep Learning-Based Improvement of Skin Disease Identification Using Comparative Pre-Trained CNN Models
+### DermAI
 
-A heterogeneous quad-ensemble medical image classification system built on the HAM10000 dataset.
+**Deep Learning-Based Improvement of Skin Disease Identification Using Comparative Pre-Trained CNN Models**
 
-🧠 models
+A heterogeneous quad-ensemble medical image classification system built on the **HAM10000** dataset.
 
-MobileNetV3 · ResNet50 · EfficientNetB0 · EfficientNetB3
+### 🧠 models
 
-🔎 techniques & stack
+`MobileNetV3` · `ResNet50` · `EfficientNetB0` · `EfficientNetB3`
 
-Transfer Learning · Weighted Loss · Grad-CAM
+### 🔎 techniques & stack
 
-FastAPI · React · Supabase · Groq API
+`Transfer Learning` · `Weighted Loss` · `Grad-CAM`
+
+`FastAPI` · `React` · `Supabase` · `Groq API`
 
 The goal wasn't simply to chase a high accuracy number.
 
-It was to understand where models succeed, where they struggle, and why.
+It was to understand **where models succeed, where they struggle, and why.**
 
 <!-- Add your DermAI repo link once pushed:
 [🔗 Explore the project →](YOUR_DERMAI_REPO_URL)
 -->
 
-🚀 things I've built
+---
 
-Project
+## 🚀 things I've built
 
-What it explores
+| Project                       | What it explores                             |
+| ----------------------------- | -------------------------------------------- |
+| 🩺 **DermAI**                 | Deep learning + medical image classification |
+| 🔬 **Melanoma Ensemble**      | Transfer learning + research experimentation |
+| ⚙️ **Orkane Mini OS**         | Processes, memory & CPU scheduling           |
+| 🌐 **Bank Networking System** | VLANs, OSPF & network design                 |
+| 🌦️ **Weather App**           | JavaScript + OpenWeather API                 |
+| 📊 **Statistical Analysis**   | Python + data visualization                  |
+| 💼 **Portfolio Website**      | React + TypeScript                           |
 
-🩺 DermAI
+[✨ Explore all repositories →](https://github.com/rabiasoomro12?tab=repositories)
 
-Deep learning + medical image classification
+> **Build it. Break it. Understand it. Build it better.**
 
-🔬 Melanoma Ensemble
+---
 
-Transfer learning + research experimentation
-
-⚙️ Orkane Mini OS
-
-Processes, memory & CPU scheduling
-
-🌐 Bank Networking System
-
-VLANs, OSPF & network design
-
-🌦️ Weather App
-
-JavaScript + OpenWeather API
-
-📊 Statistical Analysis
-
-Python + data visualization
-
-💼 Portfolio Website
-
-React + TypeScript
-
-✨ Explore all repositories →
-
-Build it. Break it. Understand it. Build it better.
-
-🎓 selected certifications
+## 🎓 selected certifications
 
 <div align="center">
 
-Credential
-
-Issuer
-
-Issued
-
-🧠 Machine Learning Specialization
-
-DeepLearning.AI · Stanford Online · Coursera
-
-Jul 2025
-
-📈 Supervised Machine Learning: Regression and Classification
-
-DeepLearning.AI · Stanford Online · Coursera
-
-Jul 2025
-
-🧩 Advanced Learning Algorithms
-
-DeepLearning.AI
-
-Jul 2025
-
-🔍 Unsupervised Learning, Recommenders, Reinforcement Learning
-
-DeepLearning.AI · Stanford Online · Coursera
-
-Jul 2025
-
-📊 Data Visualization & Dashboard Essentials
-
-Coursera
-
-Jul 2025
-
-📉 Data Visualization and Dashboards with Excel and Cognos
-
-IBM · Coursera
-
-Jul 2025
+| Credential                                                         | Issuer                                       | Issued   |
+| ------------------------------------------------------------------ | -------------------------------------------- | -------- |
+| 🧠 **Machine Learning Specialization**                             | DeepLearning.AI · Stanford Online · Coursera | Jul 2025 |
+| 📈 **Supervised Machine Learning: Regression and Classification**  | DeepLearning.AI · Stanford Online · Coursera | Jul 2025 |
+| 🧩 **Advanced Learning Algorithms**                                | DeepLearning.AI                              | Jul 2025 |
+| 🔍 **Unsupervised Learning, Recommenders, Reinforcement Learning** | DeepLearning.AI · Stanford Online · Coursera | Jul 2025 |
+| 📊 **Data Visualization & Dashboard Essentials**                   | Coursera                                     | Jul 2025 |
+| 📉 **Data Visualization and Dashboards with Excel and Cognos**     | IBM · Coursera                               | Jul 2025 |
 
 </div>
 
 <details>
 <summary><b>🔗 Credential IDs</b></summary>
 
-Machine Learning Specialization — A972GD6YJD0C
-
-Supervised Machine Learning — OXSSRSZKU9UQ
-
-Advanced Learning Algorithms — C0Z5922JUVWS
-
-Unsupervised Learning, Recommenders, Reinforcement Learning — MGDUB92GPGKK
-
-Data Visualization & Dashboard Essentials — Coursera
-
-Data Visualization and Dashboards with Excel and Cognos — Y5L2CEGC2NB1
+* Machine Learning Specialization — `A972GD6YJD0C`
+* Supervised Machine Learning — `OXSSRSZKU9UQ`
+* Advanced Learning Algorithms — `C0Z5922JUVWS`
+* Unsupervised Learning, Recommenders, Reinforcement Learning — `MGDUB92GPGKK`
+* Data Visualization & Dashboard Essentials — Coursera
+* Data Visualization and Dashboards with Excel and Cognos — `Y5L2CEGC2NB1`
 
 </details>
 
-💜 beyond the code
+---
+
+## 💜 beyond the code
 
 Alongside technical work, I've been involved in:
 
-👩🏻‍💻 VitaNova International Alliance for Sciences — Director, IT Unit
+* 👩🏻‍💻 **VitaNova International Alliance for Sciences** — Director, IT Unit
+* 🗂️ Team Head of Database Architecture & Operations, VNIAS-IJILS journal management system
+* 🎓 Computer Systems Engineering academic projects
+* 🔬 Research collaboration across Computer Science and Electrical Engineering
 
-🗂️ Team Head of Database Architecture & Operations, VNIAS-IJILS journal management system
+I enjoy the part of technology where **building, learning, explaining, and helping other people grow** overlap.
 
-🎓 Computer Systems Engineering academic projects
+> *"Technology becomes meaningful when it creates something useful beyond the code."*
 
-🔬 Research collaboration across Computer Science and Electrical Engineering
+---
 
-I enjoy the part of technology where building, learning, explaining, and helping other people grow overlap.
+## 🌱 currently learning
 
-"Technology becomes meaningful when it creates something useful beyond the code."
-
-🌱 currently learning
-
+```text
 🐍 Python & clean coding
 🧠 Machine Learning
 👁️ Computer Vision
 📊 Data Analytics
 ✨ Generative AI / LLMs
 🔬 Research methodology
+```
 
-"The goal isn't to know everything.
-It's to keep becoming harder to fool."
+> **"The goal isn't to know everything.**
+> **It's to keep becoming harder to fool."**
 
-🛠️ my engineering toolkit
+---
+
+## 🛠️ my engineering toolkit
 
 <div align="center">
 
@@ -277,13 +230,15 @@ It's to keep becoming harder to fool."
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=EDE2F2&height=8&section=header" />
 
 <br/>
 
-✦ build · research · learn · repeat ✦
+### ✦ build · research · learn · repeat ✦
 
 <br/>
 
@@ -327,7 +282,7 @@ It's to keep becoming harder to fool."
 
 <br/><br/>
 
-"Research is curiosity with a method."
+> *"Research is curiosity with a method."*
 
 <br/>
 
@@ -335,23 +290,27 @@ It's to keep becoming harder to fool."
 
 </div>
 
-🌷 woman in STEM
+---
+
+## 🌷 woman in STEM
 
 Being a woman in engineering has become part of my story, but not the limit of it.
 
-I'm interested in building a career where technical depth, research, curiosity, and persistence matter.
+I'm interested in building a career where **technical depth, research, curiosity, and persistence** matter.
 
 And if something I build makes another girl think:
 
-"Wait... maybe I can do this too."
+> *"Wait... maybe I can do this too."*
 
 that's a pretty nice bonus. 💜
 
-📫 let's connect
+---
+
+## 📫 let's connect
 
 <div align="center">
 
-If you're working on something interesting in AI, research, computer vision, intelligent systems, or STEM, I'd love to hear about it.
+If you're working on something interesting in **AI, research, computer vision, intelligent systems, or STEM**, I'd love to hear about it.
 
 <br/>
 
@@ -369,8 +328,8 @@ If you're working on something interesting in AI, research, computer vision, int
 
 <br/><br/>
 
-Thanks for stopping by. 🌷
+**Thanks for stopping by. 🌷**
 
-Keep building. Keep questioning. Keep learning.
+*Keep building. Keep questioning. Keep learning.*
 
 </div>
