@@ -82,9 +82,11 @@ And yes, I'm also a **woman in STEM** building her way through all of it. 💜
 
 **"An FPGA-Oriented Adaptive Hill-Climbing MPPT with Partial Shading Detection and Deterministic Global Search"**
 IEEE iCoMET 2026 — co-authored with Kashif Hussain Memon, Nimerta Wadhwani, Waqar Abbas Khan, Ayesha Ansari
+[🔗 View on IEEE Xplore →](https://ieeexplore.ieee.org/document/11591927)
 
 **"Surface Defects Detection in Metals Using Eddy Current Pulsed Thermography"**
 IEEE C-CODE 2025 — co-authored with Nimerta Wadhwani, Junaid Ahmed, Waqar Abbas Khan, Gui Yun Tian
+[🔗 View on IEEE Xplore →](https://ieeexplore.ieee.org/document/11204165)
 
 ### 🧪 Current research direction
 
