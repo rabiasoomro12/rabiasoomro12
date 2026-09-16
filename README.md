@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4E8E,45:9678B6,75:C3AED6,100:F0E8F5&height=240&section=header&text=Rabia%20Soomro&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20RESEARCH%20%7C%20ENGINEERING%20%7C%20WOMAN%20IN%20STEM&descAlignY=61&descSize=19&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1F4A,35:6D3B7A,65:9B5BB5,100:D8B4E2&height=240&section=header&text=Rabia%20Soomro&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20RESEARCH%20%7C%20ENGINEERING%20%7C%20WOMAN%20IN%20STEM&descAlignY=61&descSize=19&descColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=76558F&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabia;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Researcher+%7C+Engineer+%7C+Builder;Turning+curiosity+into+code+%26+research+%F0%9F%90%87" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7B4B91&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Rabia;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Researcher+%7C+Engineer+%7C+Builder;Turning+curiosity+into+code+%26+research+%F0%9F%90%87" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rsoomro03/">
-<img src="https://img.shields.io/badge/LinkedIn-76558F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6D3B7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://rabia-portfolio-rho.vercel.app/#home">
-<img src="https://img.shields.io/badge/Portfolio-9678B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-9B5BB5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:rabiasoomro1591@gmail.com">
-<img src="https://img.shields.io/badge/Email-6F4E8E?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-3B1F4A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rabiasoomro12&label=Profile%20Views&color=76558F&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=rabiasoomro12&label=Profile%20Views&color=7B4B91&style=flat-square" />
 
 </div>
 
 ---
 
-## 👩🏻‍💻 a little about me
+## 👩🏻‍💻 A little about me
 
 Hi, I'm **Rabia**, a Computer Systems Engineering graduate who became increasingly fascinated by one question:
 
@@ -36,7 +36,7 @@ I enjoy going beyond simply making a model run. I like understanding the problem
 
 > *"Curiosity is where good engineering begins."*
 
-### 🔬 What keeps me curious
+### 🔬 what keeps me curious
 
 * 🧠 Artificial Intelligence & Machine Learning
 * 👁️ Deep Learning & Computer Vision
@@ -50,7 +50,7 @@ And yes, I'm also a **woman in STEM**, building my way through all of it. 💜
 
 ---
 
-# 🧠 what I work with
+## 🧠 what I work with
 
 ### 🤖 AI / Machine Learning
 
@@ -78,7 +78,7 @@ And yes, I'm also a **woman in STEM**, building my way through all of it. 💜
 
 ---
 
-# 🔬 research & publications
+## 🔬 research & publications
 
 ### 📄 published research
 
@@ -112,9 +112,11 @@ Current work includes:
 
 Exploring `EfficientNetB3` · `DenseNet121` · `InceptionV3` · `ViT-B16`, with an emphasis on rigorous evaluation and avoiding data leakage.
 
+> *"A model is more interesting when you understand why it made the prediction."*
+
 ---
 
-# 🩺 featured project
+## 🩺 featured project
 
 ### DermAI
 
@@ -142,7 +144,7 @@ It was to understand **where models succeed, where they struggle, and why.**
 
 ---
 
-# 🚀 things I've built
+## 🚀 things I've built
 
 | Project                       | What it explores                             |
 | ----------------------------- | -------------------------------------------- |
@@ -156,11 +158,11 @@ It was to understand **where models succeed, where they struggle, and why.**
 
 [✨ Explore all repositories →](https://github.com/rabiasoomro12?tab=repositories)
 
-> *Build it. Break it. Understand it. Build it better.*
+> **Build it. Break it. Understand it. Build it better.**
 
 ---
 
-# 🎓 selected certifications
+## 🎓 selected certifications
 
 <div align="center">
 
@@ -189,7 +191,7 @@ It was to understand **where models succeed, where they struggle, and why.**
 
 ---
 
-# 💜 beyond the code
+## 💜 beyond the code
 
 Alongside technical work, I've been involved in:
 
@@ -200,9 +202,11 @@ Alongside technical work, I've been involved in:
 
 I enjoy the part of technology where **building, learning, explaining, and helping other people grow** overlap.
 
+> *"Technology becomes meaningful when it creates something useful beyond the code."*
+
 ---
 
-# 🌱 currently learning
+## 🌱 currently learning
 
 ```text
 🐍 Python & clean coding
@@ -218,7 +222,7 @@ I enjoy the part of technology where **building, learning, explaining, and helpi
 
 ---
 
-# 🛠️ my engineering toolkit
+## 🛠️ my engineering toolkit
 
 <div align="center">
 
@@ -230,7 +234,7 @@ I enjoy the part of technology where **building, learning, explaining, and helpi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5EFF8&height=8&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EDE2F2&height=8&section=header" />
 
 <br/>
 
@@ -238,27 +242,57 @@ I enjoy the part of technology where **building, learning, explaining, and helpi
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=76558F&icon_color=9678B6&text_color=555555&bg_color=ffffff" height="165"/>
+<!-- GitHub statistics -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=76558F&text_color=555555&bg_color=ffffff" height="165"/>
+<a href="https://github.com/rabiasoomro12">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=D8B4E2&icon_color=B979D0&text_color=E6DDEC&bg_color=18131C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=6D3B7A&icon_color=9B5BB5&text_color=555555&bg_color=FFFFFF">
+  <img height="165" alt="Rabia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rabiasoomro12&show_icons=true&hide_border=true&title_color=6D3B7A&icon_color=9B5BB5&text_color=555555&bg_color=FFFFFF">
+</picture>
+</a>
+
+<a href="https://github.com/rabiasoomro12">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=D8B4E2&text_color=E6DDEC&bg_color=18131C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=6D3B7A&text_color=555555&bg_color=FFFFFF">
+  <img height="165" alt="Rabia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiasoomro12&layout=compact&hide_border=true&title_color=6D3B7A&text_color=555555&bg_color=FFFFFF">
+</picture>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=FFFFFF&ring=76558F&fire=9678B6&currStreakLabel=76558F&sideLabels=76558F&dates=777777" />
+<!-- Streak -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=18131C&ring=D8B4E2&fire=B979D0&currStreakLabel=D8B4E2&sideLabels=D8B4E2&dates=AAA0B0">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=FFFFFF&ring=6D3B7A&fire=9B5BB5&currStreakLabel=6D3B7A&sideLabels=6D3B7A&dates=777777">
+  <img alt="GitHub Contribution Streak" src="https://streak-stats.demolab.com?user=rabiasoomro12&hide_border=true&background=FFFFFF&ring=6D3B7A&fire=9B5BB5&currStreakLabel=6D3B7A&sideLabels=6D3B7A&dates=777777">
+</picture>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<!-- Contribution snake automatically adapts to GitHub theme -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/rabiasoomro12/rabiasoomro12/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0E8F5,45:C3AED6,75:9678B6,100:6F4E8E&height=100&section=footer" />
+> *"Research is curiosity with a method."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D8EE,45:C49AD2,75:8C4AA5,100:3B1F4A&height=100&section=footer" />
 
 </div>
 
 ---
 
-# 🌷 woman in STEM
+## 🌷 woman in STEM
 
 Being a woman in engineering has become part of my story, but not the limit of it.
 
@@ -272,7 +306,7 @@ that's a pretty nice bonus. 💜
 
 ---
 
-# 📫 let's connect
+## 📫 let's connect
 
 <div align="center">
 
@@ -281,15 +315,15 @@ If you're working on something interesting in **AI, research, computer vision, i
 <br/>
 
 <a href="https://www.linkedin.com/in/rsoomro03/">
-<img src="https://img.shields.io/badge/LinkedIn-76558F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6D3B7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://rabia-portfolio-rho.vercel.app/#home">
-<img src="https://img.shields.io/badge/Portfolio-9678B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-9B5BB5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:rabiasoomro1591@gmail.com">
-<img src="https://img.shields.io/badge/Email-6F4E8E?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-3B1F4A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
