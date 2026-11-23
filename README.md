@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-176B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://rabia-portfolio-rho.vercel.app/#home">
+<a href="https://rabia-soomro-portfolio-jadey.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0F7C83?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -310,7 +310,7 @@ If you're working on something interesting in **AI, research, computer vision, i
 <img src="https://img.shields.io/badge/LinkedIn-176B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://rabia-portfolio-rho.vercel.app/#home">
+<a href="https://rabia-soomro-portfolio-jadey.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0F7C83?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
